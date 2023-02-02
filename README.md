@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Goodness 
+- 👋 Hi, I’m Goodness Okanlawon 
 - 👀 I’m interested in ... software technologies
 - 🌱 I’m currently learning ... Front-end Development Libraries 
 - 💞️ I’m looking to collaborate on ... Frontend projects
