@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CodeEvolver
+- 👋 Hi, I’m Goodness 
 - 👀 I’m interested in ... software technologies
 - 🌱 I’m currently learning ... Front-end Development Libraries 
 - 💞️ I’m looking to collaborate on ... Frontend projects
